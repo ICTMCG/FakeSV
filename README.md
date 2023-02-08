@@ -23,7 +23,18 @@ Anaconda 4.13.0, python 3.8.5, pytorch 1.10.1 and cuda 11.7. For other libs, ple
 @inproceedings{fakesv, 
 title={FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection  on Short Video Platforms}, 
 author={Qi, Peng and Bu, Yuyan and Cao, Juan and Ji, Wei and Shui, Ruihao and Xiao,  Junbin and Wang, Danding and Chua, Tat-Seng}, 
-booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, year={2023}, 
+booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+year={2023}, 
 organization={AAAI} 
 } 
+```
+
+Related Survey:
+```
+@article{fakesvsurvey,
+  title={Online Misinformation Video Detection: A Survey},
+  author={ Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang and Jintao Li},
+  journal={arXiv preprint arXiv:2302.03242},
+  year={2023}
+}
 ```
