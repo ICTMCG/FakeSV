@@ -33,7 +33,7 @@ Related Survey:
 ```
 @article{fakesvsurvey,
   title={Online Misinformation Video Detection: A Survey},
-  author={ Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang and Jintao Li},
+  author={Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang and Jintao Li},
   journal={arXiv preprint arXiv:2302.03242},
   year={2023}
 }
