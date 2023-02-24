@@ -1,10 +1,13 @@
 # FakeSV
 Official repository for ["***FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms***"](https://arxiv.org/abs/2211.10973), AAAI 2023.
-- **Dataset**: The video URL and corresponding annotations have been released. Also, we provide two data split used in the paper, i.e. event-based and temporal. 
+- **Dataset**: The video ID (which can be used to infer the video URL) and corresponding annotations have been released. Also, we provide two data split used in the paper, i.e. event-based and temporal. 
 - **Models**: We reproduce some SOTA methods on fake news video detection to provide benchmark results for FakeSV. Codes for our proposed model SV-FEND and other methods are provided. 
 
 ### Environment
 Anaconda 4.13.0, python 3.8.5, pytorch 1.10.1 and cuda 11.7. For other libs, please refer to the file requirements.txt.
+
+### Application for Data Use
+Please sign [this agreement](https://drive.google.com/file/d/1Ozj5OOYoDYnDznDLAECBvlGIDtyGl6Vz) and send the signed copy to [this email](qipeng@ict.ac.cn).
 
 ### Data Processing
 [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
