@@ -20,6 +20,8 @@ Please sign [this agreement](https://drive.google.com/file/d/1Ozj5OOYoDYnDznDLAE
 
 [VGGish](https://github.com/harritaylor/torchvggish)
 
+[MoviepPy](https://github.com/Zulko/moviepy)
+
 
 ### Citation
 ```
