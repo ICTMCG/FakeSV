@@ -1,5 +1,5 @@
 # FakeSV
-Official repository for ["***FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms***"](https://arxiv.org/abs/2211.10973), AAAI 2023.
+Official repository for ["***FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms***"](https://arxiv.org/abs/2211.10973), AAAI 2023. (Please note that the arxiv version is more complete.)
 - **Dataset**: The video ID (which can be used to infer the video URL) and corresponding annotations have been released. Also, we provide two data split used in the paper, i.e. event-based and temporal. 
 - **Models**: We reproduce some SOTA methods on fake news video detection to provide benchmark results for FakeSV. Codes for our proposed model SV-FEND and other methods are provided. 
 
