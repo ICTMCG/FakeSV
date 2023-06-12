@@ -34,7 +34,7 @@ organization={AAAI}
 } 
 ```
 
-[Related Survey](https://arxiv.org/abs/2302.03242):
+[Related Survey](https://arxiv.org/abs/2302.03242) and [Companion GitHub Repository](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection) :
 ```
 @article{fakesvsurvey,
   title={Online Misinformation Video Detection: A Survey},
