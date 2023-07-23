@@ -7,7 +7,7 @@ Official repository for ["***FakeSV: A Multimodal Benchmark with Rich Social Con
 Anaconda 4.13.0, python 3.8.5, pytorch 1.10.1 and cuda 11.7. For other libs, please refer to the file requirements.txt.
 
 ### Application for Data Use
-Please sign [this agreement](https://drive.google.com/file/d/1Ozj5OOYoDYnDznDLAECBvlGIDtyGl6Vz) and send the signed copy to qipeng@ict.ac.cn.
+Please sign [this agreement](https://drive.google.com/file/d/1Ozj5OOYoDYnDznDLAECBvlGIDtyGl6Vz) and send the signed copy to pengqi.qp@gmail.com.
 
 ### Data Processing
 [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
