@@ -34,12 +34,13 @@ organization={AAAI}
 } 
 ```
 
-[Related Survey](https://arxiv.org/abs/2302.03242) and [Companion GitHub Repository](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection) :
+[Related Survey (will be presented at ACM MM 2023)](https://arxiv.org/abs/2302.03242) and [Companion GitHub Repository](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection) :
 ```
-@article{fakesvsurvey,
-  title={Online Misinformation Video Detection: A Survey},
-  author={Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang and Jintao Li},
-  journal={arXiv preprint arXiv:2302.03242},
-  year={2023}
-}
+@inproceedings{mvdsurvey, 
+title={Combating Online Misinformation Videos: Characterization, Detection, and Future Directions}, 
+author={Bu, Yuyan and Sheng, Qiang and Cao, Juan and Qi, Peng and Wang, Danding and Li, Jintao}, 
+booktitle={Proceedings of the 31th ACM International Conference on Multimedia}, 
+year={2023}, 
+publisher = {Association for Computing Machinery},
+} 
 ```
