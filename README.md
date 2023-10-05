@@ -22,6 +22,7 @@ Please sign [this agreement](https://drive.google.com/file/d/1Ozj5OOYoDYnDznDLAE
 
 [MoviepPy](https://github.com/Zulko/moviepy)
 
+You could use the above repositories to extract features by yourself, or use our pre-extracted features ([VGG19](https://huggingface.co/datasets/MischaQI/FakeSV/blob/main/ptvgg19_frames.zip)/[C3D](https://huggingface.co/datasets/MischaQI/FakeSV/blob/main/c3d.zip)/[VGGish](https://huggingface.co/datasets/MischaQI/FakeSV/blob/main/dict_vid_audioconvfea.pkl)). Besides, we also provide [five-fold checkpoints](https://huggingface.co/datasets/MischaQI/FakeSV/tree/main/checkpoints) for comparison. 
 
 ### Citation
 ```
