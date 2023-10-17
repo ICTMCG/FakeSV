@@ -29,13 +29,13 @@ You could use the above repositories to extract features by yourself, or use our
 @inproceedings{fakesv, 
 title={FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection  on Short Video Platforms}, 
 author={Qi, Peng and Bu, Yuyan and Cao, Juan and Ji, Wei and Shui, Ruihao and Xiao,  Junbin and Wang, Danding and Chua, Tat-Seng}, 
-booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
 year={2023}, 
 organization={AAAI} 
 } 
 ```
 
-[Related Survey (will be presented at ACM MM 2023)](https://arxiv.org/abs/2302.03242) and [Companion GitHub Repository](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection) :
+[Related Survey (ACM Multimedia 2023)](https://arxiv.org/abs/2302.03242) and [Companion GitHub Repository](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection) :
 ```
 @inproceedings{mvdsurvey, 
 title={Combating Online Misinformation Videos: Characterization, Detection, and Future Directions}, 
@@ -44,5 +44,18 @@ booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
 year={2023},
 doi={10.1145/3581783.3612426},
 publisher = {Association for Computing Machinery},
+} 
+```
+
+[Related Method Paper (ACL 2023 Findings)](https://aclanthology.org/2023.findings-acl.756/) 
+```
+@inproceedings{mvdsurvey, 
+title={Two Heads Are Better Than One: Improving Fake News Video Detection by Correlating with Neighbors}, 
+author={Qi, Peng  and Zhao, Yuyang  and Shen, Yufeng and Ji, Wei  and Cao, Juan  and Chua, Tat-Seng}, 
+booktitle={Findings of the Association for Computational Linguistics: ACL 2023}, 
+year={2023},
+doi={10.18653/v1/2023.findings-acl.756},
+pages = "11947--11959",
+publisher = {Association for Computational Linguistics},
 } 
 ```
