@@ -49,7 +49,7 @@ publisher = {Association for Computing Machinery},
 
 [Related Method Paper (ACL 2023 Findings)](https://aclanthology.org/2023.findings-acl.756/) 
 ```
-@inproceedings{mvdsurvey, 
+@inproceedings{need, 
 title={Two Heads Are Better Than One: Improving Fake News Video Detection by Correlating with Neighbors}, 
 author={Qi, Peng  and Zhao, Yuyang  and Shen, Yufeng and Ji, Wei  and Cao, Juan  and Chua, Tat-Seng}, 
 booktitle={Findings of the Association for Computational Linguistics: ACL 2023}, 
@@ -58,4 +58,16 @@ doi={10.18653/v1/2023.findings-acl.756},
 pages = "11947--11959",
 publisher = {Association for Computational Linguistics},
 } 
+```
+
+[Related Method Paper (MM 2024)](https://www.arxiv.org/abs/2407.16670) 
+```
+@inproceedings{fakingrecipe,
+title={FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process},
+author={Bu, Yuyan and Sheng, Qiang and Cao, Juan and Qi, Peng and Wang, Danding and Li, Jintao},
+booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+year={2024},
+doi={10.1145/3664647.3680663},
+publisher = {Association for Computing Machinery},
+}
 ```
